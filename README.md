@@ -14,9 +14,6 @@
 <a href="https://github.com/anubhavsingh16/Open-Source-Events/stargazers" target="blank">
 <img src="https://img.shields.io/github/stars/anubhavsingh16/Open-Source-Events?style=flat-square" alt="opensourceEvents stars"/>
 </a>
-<a href="https://github.com/anubhavsingh16/Open-Source-Events/issues?q=is%3Aissue+" target="blank">
-<img src="https://img.shields.io/github/issues/anubhavsingh16/Open-Source-Events?style=flat-square" alt="opensourceEvents issues"/>
-</a>
 <a href="https://github.com/anubhavsingh16/Open-Source-Events/pulls?q=is%3Apr" target="blank">
 <img src="https://img.shields.io/github/issues-pr/anubhavsingh16/Open-Source-Events?style=flat-square" alt="opensourceEvents pull-requests"/>
 </a>
